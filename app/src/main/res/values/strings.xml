@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dark theme playground</string>
+    <string name="greeting">Good morning!️</string>
+    <string name="how_was_your">How was Your night?</string>
+    <string name="force_day_mode">Force day mode</string>
+    <string name="force_night_mode">Force night mode</string>
+    <string name="follow_phone_style">Follow phone style</string>
+    <string name="follow_save_mode">Follow save mode</string>
+    <string name="check_current_mode">Check current mode</string>
+    <string name="check_current_mode_result_night">Mode when last check was pressed: Night mode</string>
+    <string name="check_current_mode_result_day">Mode when last check was pressed: Day mode</string>
+    <string name="check_current_mode_result_other">Mode when last check was pressed: Unidentified</string>
+</resources>

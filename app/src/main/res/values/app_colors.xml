@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/teal</color>
+    <color name="colorPrimaryDark">@color/aquaDeep</color>
+    <color name="colorAccent">@color/amaranth</color>
+
+    <color name="defaultBackgroundColor">@color/white</color>
+    <color name="defaultTextColor">@color/doveGray</color>
+</resources>
